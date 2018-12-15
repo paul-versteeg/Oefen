@@ -2,7 +2,7 @@
 # OpenPyxl module kan je installeren met linux command: >> pip install openpyxl
 # Daarna in PyCharm installeren door file->settings->project -> project interpreter. Op "+" klikken rechtsboven, naar openpyxl zoeken en installeren
 
-from openpyxl import
+from openpyxl import *
 
 # excelsheet benoemen
 wb=Workbook()
